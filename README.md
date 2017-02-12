@@ -5,7 +5,7 @@ This repository contains code for implementing various AI and ML algorithms alon
 ## Neural_Network.py : 
 Implementation of Neural Network from the scratch for handwritten digit recognition. The database used is mnist database which is provided in .csv format in mnist_train_&_test.zip. The program experiments with varying number of hidden units, varying momentum values, and variations in the size of training set to observe changes in the network performance. To execute the code save both the .csv files and the .py file in your current directory and run it with python. Make sure your python has Numpy and Sklearn packages installed.
 
-## Perceptron_learnin.py :
+## Perceptron_Learning.py :
 Implementation of Perceptron Learning Algorithm from the scratch for handwritten digit recognition. The database used is mnist database which is provided in .csv format in mnist_train_&_test.zip. The program experiments with different sets of initial random weights and varying learning rates to observe the changes in the network performance. To execute the code save both the .csv files and the .py file in your current directory and run it with python. Make sure your python has Numpy and Sklearn packages installed.
 
 ## Genetic_Algorithm_TSP.lisp :
