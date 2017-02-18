@@ -13,12 +13,12 @@ Implementation of Perceptron Learning Algorithm from the scratch for handwritten
 
 ## Genetic_Algorithm_TSP.lisp :
 Implementation of Genetic Algorithm to find a near-optimum solution for the Travelling Salesman Problem. A sample map (Genetic_Algorithm_TSP_map) is provided which can be used with the code. To execute the code save the .lisp file and the map in your current directory and run it with clisp. Enter the name of the input file when prompted by the program. If you use an input file other than the one given here, please make sure it has the following format:
-<n>               (number of cities) \n
-<1> <x1>  <y1>    (city number and coordinates) \n
-<2> <x2>  <y2> \n
+n               (number of cities) \n
+1 x1  y1    (city number and coordinates) \n
+2 x2  y2 \n
 .........
-<n> <xn>  <yn> \n
-<source>               (start city number) 
+n xn  yn \n
+source               (start city number) 
 
 ## Tower_of_Hanoi_Iterative.lisp / Tower_of_Hanoi_Recursive.lisp :
 Solves the Tower of Hanoi puzzle in iterative and recursive manner respectively using State-Space Search. Execute the code with clisp, enter the desired height of the tower when prompted by the program.
