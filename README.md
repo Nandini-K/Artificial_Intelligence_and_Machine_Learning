@@ -18,7 +18,7 @@ Implementation of Genetic Algorithm to find a near-optimum solution for the Trav
 <2> <x2>  <y2>
 .........
 <n> <xn>  <yn>
-<s>               (start city number)
+<source>               (start city number)
 
 ## Tower_of_Hanoi_Iterative.lisp / Tower_of_Hanoi_Recursive.lisp :
 Solves the Tower of Hanoi puzzle in iterative and recursive manner respectively using State-Space Search. Execute the code with clisp, enter the desired height of the tower when prompted by the program.
