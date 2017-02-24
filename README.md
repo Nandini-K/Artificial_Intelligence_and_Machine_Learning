@@ -2,6 +2,9 @@
 
 This repository contains code for implementing various AI and ML algorithms along with the required datasets. A brief description is given below:-
 
+## Gaussian_Naive_Bayes.py :
+Implementation of Bayesian Learning for classification of spam and non-spam emails using UCI's Spambase database (see the spambase.data.csv). To execute the code save the .csv file and the .py file in your current directory and run it with python. Make sure your python has Numpy and Sklearn packages installed.
+
 ## SVM_Feature_Selection_SkLearn.py :
 A short program to study the effects of random and weighted feature selection on the accuracy of SVM. Training and testing performed on UCI's Spambase database (see the spambase.data.csv) using Scikit Learn Library functions. To execute the code save the .csv file and the .py file in your current directory and run it with python. Make sure your python has Numpy and Sklearn packages installed.
 
