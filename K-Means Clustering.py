@@ -96,5 +96,5 @@ K_means_Clustering(k=10)	# Preform K-means clustering for k = 10
 k =30
 while(k):
 	print('\n==================================================')
-	K_means_Clustering(k)	# Preform K-means clustering for k = 30
+	K_means_Clustering(k)	# Preform K-means clustering for k = 30 and then for any input k value
 	k = int(input("\tEnter number of initial random seeds\n\tOR\n\tEnter 0 to exit...\n"))
